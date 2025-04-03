@@ -1,0 +1,1 @@
+# sftp-function-app
